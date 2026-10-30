@@ -1,0 +1,14 @@
+{
+    "name": "zivalix/zivalix",
+    "description": "The official reserved package for ZIVALIX Agency to prevent dependency confusion.",
+    "type": "library",
+    "license": "ISC",
+    "authors": [
+        {
+            "name": "ZIVALIX Founders",
+            "homepage": "https://zivalix.com",
+            "role": "Security & Brand Protection"
+        }
+    ],
+    "require": {}
+}
