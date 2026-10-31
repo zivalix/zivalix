@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageId>zivalix</PackageId>
+    <Version>0.0.1</Version>
+    <Authors>ZIVALIX Founders</Authors>
+    <Company>ZIVALIX Agency</Company>
+    <Description>Official reserved package for ZIVALIX Agency. Defensive registration.</Description>
+    <PackageLicenseExpression>ISC</PackageLicenseExpression>
+    <PackageProjectUrl>https://zivalix.com</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/zivalix/zivalix</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="README.md" Pack="true" PackagePath="\"/>
+  </ItemGroup>
+</Project>

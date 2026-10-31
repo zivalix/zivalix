@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>zivalix</id>
+    <version>0.0.1</version>
+    <authors>ZIVALIX Founders</authors>
+    <license type="expression">ISC</license>
+    <licenseUrl>https://licenses.nuget.org/ISC</licenseUrl>
+    <readme>README.md</readme>
+    <projectUrl>https://zivalix.com/</projectUrl>
+    <description>Official reserved package for ZIVALIX Agency. Defensive registration.</description>
+    <repository type="git" url="https://github.com/zivalix/zivalix" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/var/home/zivalix/zivalix_dotnet/bin/Release/netstandard2.0/zivalix.dll" target="lib/netstandard2.0/zivalix.dll" />
+    <file src="/var/home/zivalix/zivalix_dotnet/README.md" target="/README.md" />
+  </files>
+</package>
