@@ -1,0 +1,12 @@
+[package]
+name = "zivalix"
+version = "0.0.1"
+authors = ["ZIVALIX Founders <founders@zivalix.com>"]
+edition = "2021"
+description = "Official reserved package for ZIVALIX Agency. Defensive registration."
+license = "ISC"
+repository = "https://github.com/zivalix/zivalix"
+homepage = "https://zivalix.com"
+readme = "README.md"
+
+[dependencies]
