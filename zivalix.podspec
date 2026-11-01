@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.homepage     = "https://zivalix.com"
   s.license      = { :type => "ISC" }
   s.author       = { "ZIVALIX Founders" => "founders@zivalix.com" }
-  s.source       = { :git => "https://github.com/zivalix/zivalix.git", :commit => "YOUR_COMMIT_SHA" }
+  s.source       = { :git => "https://github.com/zivalix/zivalix.git", :commit => "139e6e461d7de5cab915d0ee04bcd91b2d523ac3" }
   s.source_files = "Sources/**/*.swift"
   s.swift_version = "5.9"
   s.static_framework = true
