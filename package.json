@@ -1,7 +1,28 @@
 {
   "name": "zivalix",
-  "version": "0.0.2",
-  "description": "Official reserved package for ZIVALIX Agency. Defensive registration.",
-  "author": "ZIVALIX Founders",
+  "version": "0.0.3",
+  "description": "Official reserved package for ZIVALIX Digital Solutions. Maintained for defensive registration and brand protection.",
+  "main": "index.js",
+  "author": {
+    "name": "ZIVALIX Founders",
+    "email": "founders@zivalix.com",
+    "url": "https://zivalix.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zivalix/zivalix.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zivalix/zivalix/issues",
+    "email": "security@zivalix.com"
+  },
+  "homepage": "https://zivalix.com",
+  "keywords": [
+    "zivalix",
+    "security",
+    "defensive-registration",
+    "brand-protection",
+    "cybersecurity"
+  ],
   "license": "ISC"
 }
